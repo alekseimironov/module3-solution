@@ -80,18 +80,13 @@ body {
   background-color: #B5B5B0;
 }
 
-#menu-tile span {
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 100%;
+.text-center {
   text-align: center;
   font-size: 1.6em;
+  padding: 20px 0px;
+  margin-top: -20px;
+  margin-bottom: 0px;
   background-color: white;
-  color: black;
-  opacity: 1.0;
-  padding-top: 0px;
-  padding-bottom: 20px;
 }
 
 #menu-tile h3 {
@@ -106,7 +101,7 @@ body {
 }
 
 #menu-tile h3:first-of-type {
-  margin-top: 70px;  
+  margin-top: 20px;  
 }
 
 #menu-tile p {
